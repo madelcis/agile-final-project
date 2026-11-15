@@ -1,4 +1,3 @@
-
 ---
 name: Historia de usuario
 about: Plantilla para crear historias de usuario del proyecto Agile
